@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 // Try importing without the .js extension
-import Entry from "./Entry";
+import Entry from "./entry";
 import emojipedia from "../emojipedia";
 
 function createEntry(emojiTerm) {
